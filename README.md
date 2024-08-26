@@ -12,7 +12,7 @@ Based on the UAV-BCD[[UAV-BCD: A UAV Building Change Detection Dataset | IEEE Co
 
 ## Dataset
 
-The proposed dataset can be found at [[https://pan.baidu.com/s/1tJVFkJU4fmX_nGqi70b3yA?pwd=32qc](https://pan.baidu.com/s/1H5lO1HwZKfBpv3kx0cPf3A?pwd=jr5l)] 
+The proposed dataset can be found at [https://pan.baidu.com/s/1H5lO1HwZKfBpv3kx0cPf3A?pwd=jr5l] 
 
 ## Citation
 
