@@ -2,7 +2,7 @@
 
 This repository is used to publish UAV-CD datasets
 
-## paper
+## Paper
 
 A SCALE-TEMPORAL INTERACTION NETWORK FOR REMOTE SENSING IMAGE CHANGE DETECTION AND A UAV-CD DATASET
 
