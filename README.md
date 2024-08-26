@@ -10,7 +10,7 @@ A SCALE-TEMPORAL INTERACTION NETWORK FOR REMOTE SENSING IMAGE CHANGE DETECTION A
 
 ## Introduction
 
-Based on the UAV-BCD[[UAV-BCD: A UAV Building Change Detection Dataset | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/10281907)], we further enriched the sample diversity and expanded the sample size by adding land changes in addition to building changes, expanding the samples from 2024 to 2660. Specifically, UAV-CD consists of a total of 2660 pairs of 768× 768 pixel UAV optical images with a spatial resolution of 0.06m. In terms of building changes, it mainly involves building additions and demolitions.
+All optical images of UAV-CD were taken in Guangdong Province, China. For data annotation, we used a manual annotation method, where pairs of images taken at similar times were used as annotation samples. In order to improve the quality of the dataset, the labeling was done by RS image experts who have a comprehensive understanding of the CD mission.The UAV-CD consists of 2,660 pairs of 768 × 768 pixel UAV optical images with a spatial resolution of 0.06 m. In terms of architectural changes, it mainly involves the building additions and demolitions. (The UAV-CD further enriches the diversity of the sample based on the UAV-BCD[[UAV-BCD: A UAV Building Change Detection Dataset | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/10281907)] by expanding the sample size by adding land changes in addition to building changes, expanding the sample from 2024 to 2660.)
 
 ## Dataset
 
