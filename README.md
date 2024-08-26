@@ -20,7 +20,8 @@ The proposed dataset can be found at [https://pan.baidu.com/s/1H5lO1HwZKfBpv3kx0
 
 Please cite our paper if you find it useful for your research.
 
+(Paper presented at the 2024 IEEE International Symposium on Geoscience and Remote Sensing (IGARSS), citation to be updated when the paper can be retrievedPaper presented at the 2024 IEEE International Symposium on Geoscience and Remote Sensing (IGARSS), link to be updated when the paper can be retrieved)
 ```
-Paper presented at the 2024 IEEE International Symposium on Geoscience and Remote Sensing (IGARSS), citation to be updated when the paper can be retrievedPaper presented at the 2024 IEEE International Symposium on Geoscience and Remote Sensing (IGARSS), link to be updated when the paper can be retrieved
+To be updated
 ```
 
