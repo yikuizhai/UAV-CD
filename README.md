@@ -18,8 +18,9 @@ The proposed dataset can be found at [https://pan.baidu.com/s/1H5lO1HwZKfBpv3kx0
 
 Please cite our paper if you find it useful for your research.
 
-(Paper presented at the 2024 IEEE International Symposium on Geoscience and Remote Sensing (IGARSS), citation to be updated when the paper can be retrieved)
 ```
-To be updated
+T. Xian et al., "A Scale-Temporal Interaction Network For Remote Sensing Image Change Detection And A UAV-CD Dataset," IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athens, Greece, 2024, pp. 8603-8607, doi: 10.1109/IGARSS53475.2024.10641915. keywords: {Visualization;Buildings;Focusing;Feature extraction;Autonomous aerial vehicles;Optical imaging;Decoding;Change detection (CD);feature interaction;remote sensing (RS) images;UAV;Dataset},
+
+
 ```
 
