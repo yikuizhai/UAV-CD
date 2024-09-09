@@ -5,6 +5,7 @@ This repository is used to publish UAV-CD datasets
 ## Paper
 
 A SCALE-TEMPORAL INTERACTION NETWORK FOR REMOTE SENSING IMAGE CHANGE DETECTION AND A UAV-CD DATASET[https://ieeexplore.ieee.org/document/10641915]
+
 MSFA-Net : Multiple Spatial-Channel Feature Aggregation Network for Change Detection and a UAV-CD Dataset[https://ieeexplore.ieee.org/document/10640969]
 
 ## Introduction
@@ -26,7 +27,5 @@ T. Xian et al., "A Scale-Temporal Interaction Network For Remote Sensing Image C
 MSFA-Net : Multiple Spatial-Channel Feature Aggregation Network for Change Detection and a UAV-CD Dataset
 ```
 J. Pan et al., "MSFA-Net : Multiple Spatial-Channel Feature Aggregation Network for Change Detection and a UAV-CD Dataset," IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athens, Greece, 2024, pp. 10328-10332, doi: 10.1109/IGARSS53475.2024.10640969. keywords: {Convolution;Feature extraction;Autonomous aerial vehicles;Robustness;Sensors;Task analysis;Vehicle dynamics;Change detection (CD);remote sensing;dataset;spatial and channel reconstruction convolution (ScConv);UAV},
-
-
 ```
 
