@@ -4,9 +4,7 @@ This repository is used to publish UAV-CD datasets
 
 ## Paper
 
-A SCALE-TEMPORAL INTERACTION NETWORK FOR REMOTE SENSING IMAGE CHANGE DETECTION AND A UAV-CD DATASET
-
-(Paper presented at the 2024 IEEE International Symposium on Geoscience and Remote Sensing (IGARSS), link to be updated when the paper can be retrieved.)
+A SCALE-TEMPORAL INTERACTION NETWORK FOR REMOTE SENSING IMAGE CHANGE DETECTION AND A UAV-CD DATASET[https://ieeexplore.ieee.org/document/10641915]
 
 ## Introduction
 
