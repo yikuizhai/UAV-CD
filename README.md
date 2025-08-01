@@ -20,12 +20,8 @@ The proposed dataset can be found at [https://pan.baidu.com/s/1H5lO1HwZKfBpv3kx0
 
 Please cite our paper if you find it useful for your research.
 
-A SCALE-TEMPORAL INTERACTION NETWORK FOR REMOTE SENSING IMAGE CHANGE DETECTION AND A UAV-CD DATASET
+DS-HyFA-Net: A Deeply Supervised Hybrid Feature Aggregation Network With Multiencoders for Change Detection in High-Resolution Imagery
 ```
-T. Xian et al., "A Scale-Temporal Interaction Network For Remote Sensing Image Change Detection And A UAV-CD Dataset," IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athens, Greece, 2024, pp. 8603-8607, doi: 10.1109/IGARSS53475.2024.10641915. keywords: {Visualization;Buildings;Focusing;Feature extraction;Autonomous aerial vehicles;Optical imaging;Decoding;Change detection (CD);feature interaction;remote sensing (RS) images;UAV;Dataset},
-```
-MSFA-Net : Multiple Spatial-Channel Feature Aggregation Network for Change Detection and a UAV-CD Dataset
-```
-J. Pan et al., "MSFA-Net : Multiple Spatial-Channel Feature Aggregation Network for Change Detection and a UAV-CD Dataset," IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athens, Greece, 2024, pp. 10328-10332, doi: 10.1109/IGARSS53475.2024.10640969. keywords: {Convolution;Feature extraction;Autonomous aerial vehicles;Robustness;Sensors;Task analysis;Vehicle dynamics;Change detection (CD);remote sensing;dataset;spatial and channel reconstruction convolution (ScConv);UAV},
+Ying Z, Xian T, Zhai Y, et al. DS-HyFA-Net: A Deeply Supervised Hybrid Feature Aggregation Network with Multi-Encoders for Change Detection in High-Resolution Imagery[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024.
 ```
 
